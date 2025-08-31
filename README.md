@@ -20,13 +20,13 @@ This project analyzes **U.S. healthcare performance (2019–2020)** through KPIs
 ---
 
 ## ⚙️ Tools & Technologies
-- **Excel / Power BI / Tableau** (for data visualization)  
+- **Power BI** (for data visualization)  
 - KPI cards, charts, and dashboards  
 
 ---
 
 ## 🚀 How to Use
-1. Open the dashboard file in **Power BI / Excel / Tableau**.  
+1. Open the dashboard file in **Power BI**.  
 2. Explore KPIs, trends, and metrics.  
 3. Use visuals to derive insights into healthcare performance.  
 
